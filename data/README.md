@@ -1,0 +1,1 @@
+This directory contains the telco_churn_with_all_feedback.csv dataset, consisting of 7,043 rows and 24 initial features, including customer demographics, account characteristics, billing data, and synthetic textual feedback strings."
