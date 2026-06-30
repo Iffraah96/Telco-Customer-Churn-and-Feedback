@@ -3,6 +3,8 @@
 **File:** `visualization/features_importance.png`  
 **Description:** This plot visualizes the top 15 most influential features driving the hybrid model's churn predictions. 
 
+![Top 15 Feature Importances](./features_importance.png)
+
 ### Key Insights from the Chart:
 * **NLP Dominance:** Out of the top 50 features evaluated by the Random Forest model, **45 are NLP text tokens** derived from the TF-IDF matrix, while only 5 belong to the traditional tabular dataset. 
 * **Linguistic Partitioning:** The chart highlights how the machine learning model heavily prioritized structural text artifacts like `recently`, `decide`, `satisfied`, and `ultimately`. 
