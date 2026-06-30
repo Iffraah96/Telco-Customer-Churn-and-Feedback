@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Iffraah96/Hybrid-Customer-Churn-Prediction-with-NLP-Sentiment-Integration/blob/main/notebook/Telco_Customer_Churn_Feedback.ipynb)
+
 # Hybrid Customer Churn Prediction with NLP Sentiment Integration
 
 This repository contains an advanced customer churn prediction pipeline that combines traditional tabular customer data (billing, demographics, and usage metrics) with unstructured text feedback. Utilizing **Python**, **spaCy**, and **scikit-learn**, this project demonstrates how natural language processing (NLP) can extract hidden sentiment signals to dramatically improve machine learning classification performance.
