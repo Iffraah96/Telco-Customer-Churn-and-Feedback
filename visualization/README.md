@@ -1,6 +1,6 @@
 ## 📊 Feature Importance Visualization
 
-**File:** `visualization/feature_importance.png`  
+**File:** `visualization/features_importance.png`  
 **Description:** This plot visualizes the top 15 most influential features driving the hybrid model's churn predictions. 
 
 ### Key Insights from the Chart:
